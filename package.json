@@ -1,0 +1,19 @@
+{
+  "name": "mocha-err",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^4.0.2",
+    "mocha": "^4.0.1"
+  }
+}
